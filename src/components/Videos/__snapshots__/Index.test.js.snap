@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Videos component unit test Videos 1 item renders correctly 1`] = `
+<div>
+  <h3>
+    udemy
+  </h3>
+</div>
+`;
+
+exports[`Videos component unit test Videos empty renders sorry, no videos found 1`] = `
+<h2>
+  Sorry, no videos!
+</h2>
+`;
